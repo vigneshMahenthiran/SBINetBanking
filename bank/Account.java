@@ -1,6 +1,6 @@
 package bank;
 //this file maintains account details of user 
-//this includes account balance also
+//this includes account balance also and will be updated automatically once balance changes
 public class Account {
 	long accNo;
 	float balance;
