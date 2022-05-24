@@ -1,5 +1,5 @@
 package bank;
-
+//this file maintains account details of user 
 public class Account {
 	long accNo;
 	float balance;
